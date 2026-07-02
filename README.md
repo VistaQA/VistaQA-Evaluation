@@ -1,5 +1,24 @@
 # VistaQA Evaluation
 
+<p align="center">
+  
+Official evaluation code for VistaQA, a benchmark for joint visual question answering and pixel-level visual evidence grounding.
+</p>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2605.20676">
+    <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?logo=arxiv&logoColor=white">
+  </a>
+  <a href="HF_DATASET_LINK">
+    <img src="https://img.shields.io/badge/🤗-Dataset-yellow">
+  </a>
+  <a href="https://vistaqa.github.io">
+    <img src="https://img.shields.io/badge/Project-Website-blue">
+  </a>
+</p>
+
+
+
 ## Install
 
 ```bash
