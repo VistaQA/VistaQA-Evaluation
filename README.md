@@ -8,7 +8,7 @@ Official evaluation code for VistaQA, a benchmark for joint visual question answ
 <p align="center">
   📄 <a href="https://arxiv.org/abs/2605.20676"><b>Paper</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  🤗 <a href="HF_DATASET_LINK"><b>Dataset</b></a>
+  🤗 <a href="https://huggingface.co/datasets/mozhina/VistaQA"><b>Dataset</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   🌐 <a href="https://vistaqa.github.io"><b>Project Page</b></a>
 </p>
