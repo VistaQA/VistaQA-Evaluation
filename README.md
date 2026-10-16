@@ -1,8 +1,9 @@
 # VistaQA Evaluation
-
-<p align="center">
-  
+ <p align="center">
 Official evaluation code for VistaQA, a benchmark for joint visual question answering and pixel-level visual evidence grounding.
+
+🎉 Accepted at NeurIPS 2026 (Datasets & Benchmarks Track)
+
 </p>
 
 <p align="center">
@@ -11,9 +12,9 @@ Official evaluation code for VistaQA, a benchmark for joint visual question answ
   🤗 <a href="https://huggingface.co/datasets/mozhina/VistaQA"><b>Dataset</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   🌐 <a href="https://vistaqa.github.io"><b>Project Page</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🏆 <a href="https://vlm4rwd.github.io/challenges.html#vistaqa"><b>Participate in the Challenge</b></a>
 </p>
-
-
 
 ## Install
 
